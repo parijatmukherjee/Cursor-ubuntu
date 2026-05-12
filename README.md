@@ -1,3 +1,5 @@
+# Cursor Ubuntu — Install Cursor IDE on Ubuntu 22.04  24.04 (AI Code Editor Setup Guide)
+
 
 
 ---
